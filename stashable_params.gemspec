@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = StashableParams::VERSION
   spec.authors       = ["Lin Reid"]
   spec.email         = ["linreid@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = 'Easily stash your params for later use.'
+  spec.summary       = 'stashable_params allows you temporarily stash params and unstash them when you need them.'
+  spec.homepage      = 'https://github.com/linstula/stashable_params'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
