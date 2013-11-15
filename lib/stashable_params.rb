@@ -1,5 +1,7 @@
 require "stashable_params/version"
 
 module StashableParams
-  # Your code goes here...
+  def stash_params
+    session[:stashed_params] = params
+  end
 end
