@@ -1,5 +1,8 @@
 # StashableParams
 
+[![Build
+Status](https://travis-ci.org/linstula/stashable_params.png?branch=master)](https://travis-ci.org/linstula/stashable_params)
+
 Easily store the current params hash  and access them when you need them. 
 
 Call `stash_params` in your controller to store the current params. Call
