@@ -1,7 +1,7 @@
 # StashableParams
 
 [![Build
-Status](https://travis-ci.org/linstula/stashable_params.png?branch=master)](https://travis-ci.org/linstula/stashable_params)
+Status](https://travis-ci.org/dockyard/stashable_params.png?branch=master)](https://travis-ci.org/dockyard/stashable_params)
 
 Easily store the current params hash  and access them when you need them. 
 
